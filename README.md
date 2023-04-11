@@ -1,11 +1,11 @@
 # Douglas ASIMOV ✨
 ### Desenvolvedor de Software<br>
 
-• E-mail : dougdotcon@gmail.com 
-• Site : https://www.dougdotcon.uwu.ai/ 
-• Github : https://github.com/dougdotcon 
-• Linkedin : https://www.linkedin.com/in/dougdotcon/ 
-• Startup : https://asimovink.gitbook.io/
+- E-mail : dougdotcon@gmail.com 
+- Site : https://www.dougdotcon.uwu.ai/ 
+- Github : https://github.com/dougdotcon 
+- Linkedin : https://www.linkedin.com/in/dougdotcon/ 
+- Startup : https://asimovink.gitbook.io/
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight) <br>
