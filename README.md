@@ -35,6 +35,8 @@ Aluno com sólidas competências em Física, adquiridas através da participaç�
 
 
 [✨ _BTS Heros_](https://dougdotcon.github.io/bts-herois/ "BTS Heros")
+[✨ _Spellchat_](https://dougdotcon.github.io/ProjectSpellchat/ "Spellchat")
+[✨ _LOC_](https://dougdotcon.github.io/LOC---Library-of-the-Cosmos-/ "LOC")
 
 ### Habilidades<br>
 - Desenvolvimento de software (JavaScript, Python, HTML, CSS, Bootstrap)
