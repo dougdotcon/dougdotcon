@@ -34,9 +34,9 @@ Universidade Federal do Rio de Janeiro (UFRJ), 2021 - 2026 (Cursando) <br><br>
 Aluno com sólidas competências em Física, adquiridas através da participação em palestras e cursos diversos. Possui conhecimento em Astronomia e Astrofísica, Teoria de Campos, Energias Limpas e Renováveis e aspectos surpreendentes do mundo quântico. Além disso, tem interesse em desenvolvimento de software e startups, com foco em performance e boas práticas. Expandido seus horizontes, também explorou a Filosofia Estoica, a Tábua de Esmeralda e a relação entre Matrix e realidade. Engajado em inovação pedagógica e ensino híbrido, busca contribuir para a divulgação e ensino da Física de Partículas. Tem conhecimento em geração quântica de imagens, demonstrando versatilidade e curiosidade intelectual.
 
 
-[✨ _BTS Heros_](https://dougdotcon.github.io/bts-herois/ "BTS Heros")
-[✨ _Spellchat_](https://dougdotcon.github.io/ProjectSpellchat/ "Spellchat")
-[✨ _LOC_](https://dougdotcon.github.io/LOC---Library-of-the-Cosmos-/ "LOC")
+- [✨ _BTS Heros_](https://dougdotcon.github.io/bts-herois/ "BTS Heros")
+- [✨ _Spellchat_](https://dougdotcon.github.io/ProjectSpellchat/ "Spellchat")
+- [✨ _LOC_](https://dougdotcon.github.io/LOC---Library-of-the-Cosmos-/ "LOC")
 
 ### Habilidades<br>
 - Desenvolvimento de software (JavaScript, Python, HTML, CSS, Bootstrap)
