@@ -14,16 +14,7 @@
 Resumo 
 Estudante de Sistemas de Informação e Física com habilidades em desenvolvimento de software, métodos ágeis, manutenção de sistemas e elaboração de documentação técnica. Com experiência em HTML, CSS, Bootstrap, SQL e MySQL. Atualmente trabalhando em projetos envolvendo blockchain e treinamento de LLMs para inteligência artificial.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougdotcon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Meus interesses hoje em dia são 🎯:
-- Inteligência Artificial e Machine Learning
-- Desenvolvimento de jogos e gamificação
-- Metaverso e Realidade Virtual/Aumentada
-- Blockchain e tecnologias descentralizadas
-
-
+🚀 Projetos relevantes:
 - [✨ _BTS Heros_](https://dougdotcon.github.io/bts-herois/ "BTS Heros")
 - [✨ _Spellchat_](https://dougdotcon.github.io/ProjectSpellchat/ "Spellchat")
 - [✨ _LOC_](https://dougdotcon.github.io/LOC---Library-of-the-Cosmos-/ "LOC")
@@ -37,9 +28,6 @@ Estudante de Sistemas de Informação e Física com habilidades em desenvolvimen
 📚 Formação:
 - Bacharelado em Sistemas de Informação, Universidade Estácio de Sá (UNESA), 2020 - 2024 (Cursando)
 - Licenciatura em Física, Universidade Federal do Rio de Janeiro (UFRJ), 2021 - 2026 (Cursando)
-
-🚀 Projetos relevantes:
-- BTS Heros, Spellchat, LOC
 
 💻 Habilidades Técnicas:
 - Desenvolvimento de software (JavaScript, Python, HTML, CSS, Bootstrap)
