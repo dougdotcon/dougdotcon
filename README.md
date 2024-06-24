@@ -9,13 +9,7 @@
 - Portfólio: [Projects](https://colab.research.google.com/drive/1xq-7fztEdRaXsdDjfWo0aYCQldNgCnw1#scrollTo=RPTNxYHWciu6)
 
 ### Resumo 👋
-Sou um Cientista de Dados e Engenheiro de Dados com formação em Sistemas de Informação e Física, especializado em análise de dados, machine learning e desenvolvimento Python. Tenho vasta experiência em modelagem de dados, ETL e construção de pipelines de dados escaláveis, com expertise em algoritmos de aprendizado de máquina e processamento de grandes volumes de dados (Big Data). Apaixonado por extrair insights valiosos de dados complexos para impulsionar decisões estratégicas e otimizar processos.
-
-### Experiência Profissional 🚀
-- Cientista de Dados | Engenheiro de Dados na Marisol Madeiras (Abr 2022 - Presente)
-  - Desenvolvimento e otimização de pipelines de dados usando SQL, Python e Apache Spark.
-  - Implementação de modelos de machine learning para previsão e análise de tendências.
-  - Automação de processos de ETL para melhor eficiência de coleta e processamento de dados.
+Sou Engenheiro de Dados com formação em Sistemas de Informação e Física, especializado em análise de dados, machine learning e desenvolvimento Python. Tenho vasta experiência em modelagem de dados, ETL e construção de pipelines de dados escaláveis, com expertise em algoritmos de aprendizado de máquina e processamento de grandes volumes de dados (Big Data). 
 
 - **CTO na Asimov** (Jan 2023 - Presente)
   - Liderança em startup de tecnologia inovadora focada em simulações imersivas e inteligência artificial.
