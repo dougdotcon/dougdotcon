@@ -84,7 +84,7 @@ Portfólio de projetos desenvolvidos em Python, incluindo sistemas de recomenda�
 ## 🌍 Idiomas
 
 - **Português**: Nativo
-- **Inglês**: Intermediário
+- **Inglês**: Fluente
 
 ---
 
