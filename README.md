@@ -2,7 +2,7 @@
 
 ### Cientista de Dados | Engenheiro de Dados | Especialista em Python
 
-![Banner](https://your-banner-url.com/banner.png)
+![Banner](banner.png)
 
 ---
 
