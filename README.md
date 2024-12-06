@@ -130,9 +130,11 @@ Portfólio de projetos desenvolvidos em Python, incluindo sistemas de recomenda�
 
 ## 📈 Atividades Recentes
 
-<!-- Atualize com suas últimas contribuições ou projetos -->
-- Adicione aqui links para seus últimos commits, projetos ou artigos.
-
+- **Dashboard Veterinario**: [Dashboard](https://veterinaria-gray.vercel.app/)
+- **CryptoValt**: [Projeto em Desenvolvimento](https://cryptofinans.vercel.app/)
+- **Simulador**: [Simulador de Parcelas](https://simulador-seven.vercel.app/)
+- **Rebrand**: [Site Marisol Madeiras](https://marisol-rebrand.vercel.app/)
+- **Outros Trabalhos**: [Visite o Behance](https://www.behance.net/dougdotcon)
 ---
 
 ## 📬 Vamos Conversar!
