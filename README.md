@@ -1,6 +1,6 @@
 # Douglas Henrique Machado de Lima ✨
 
-### Cientista de Dados | Engenheiro de Dados | Especialista em Python
+### Cientista de Dados mas um pouco | Engenheiro de Dados mais ou menos| Especialista em Python de chatgpt
 
 ![Banner](banner.png)
 
