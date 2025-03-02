@@ -85,7 +85,7 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
     <td width="50%" valign="top">
       <h3 align="center">Sinais Premium</h3>
       <div align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.expoapps.sinais_premium&hl=pt_PT&gl=US&pli=1" target="_blank">
+        <a href="https://www.behance.net/gallery/201464477/App-CryptoSignalsApp" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="App Store"/>
         </a>
         <p>Aplicativo de análise e previsão de sinais financeiros utilizando algoritmos de machine learning avançados.</p>
@@ -114,7 +114,7 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
     <td width="50%" valign="top">
       <h3 align="center">CryptoValt</h3>
       <div align="center">
-        <a href="https://cryptofinans.vercel.app/" target="_blank">
+        <a href="https://cryptosignals-institucional-test.vercel.app/" target="_blank"> 
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
         </a>
         <p>Plataforma em desenvolvimento para gestão e análise de ativos digitais e criptomoedas.</p>
