@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### Engenheiro de Dados | Cientista de Dados | CTO na Asimov Industries
+### Engenheiro de Dados | Cientista de Dados | CTO na ASIMOV TECH
 </div>
 
 ---
@@ -25,7 +25,7 @@ Sou um profissional de dados com formação multidisciplinar em **Sistemas de In
 -  **Pipelines de dados** e arquiteturas ETL robustas
 -  **Blockchain** e tecnologias descentralizadas
 
-Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde desenvolvemos soluções inovadoras em inteligência artificial, simulações imersivas e tecnologias blockchain.
+Atualmente, lidero a equipe técnica da **ASIMOV TECH** como CTO, onde desenvolvemos soluções inovadoras em inteligência artificial, simulações imersivas e tecnologias blockchain.
 
 ---
 
@@ -175,7 +175,7 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
 - **Voluntário na Ethereum Brasil**
   - Organização de workshops e suporte técnico em eventos da comunidade blockchain.
   
-- **Fundador da ASIMOV INDUSTRIES**
+- **Fundador da ASIMOV TECH**
   - Desenvolvimento de soluções inovadoras em simulações imersivas e inteligência artificial.
   
 - **Escritor e Editor na PFP Supply Co.**
