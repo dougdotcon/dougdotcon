@@ -11,9 +11,6 @@
 <div align="center">
   
 ### Engenheiro de Dados | Cientista de Dados | CTO na Asimov Industries
-
-<img src="banner.png" alt="Banner" width="800"/>
-
 </div>
 
 ---
