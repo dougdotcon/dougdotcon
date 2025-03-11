@@ -83,8 +83,7 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
       <h3 align="center">CryptoSignalsApp</h3>
       <div align="center">
         <a href="https://www.behance.net/gallery/201464477/App-CryptoSignalsApp" target="_blank">
-          <img src="https://img.shields.io/badge/Behance-414141?style=for-the-badge&logo=behanceColor=white" alt="GitBook"/>
-&logoColor=white" alt="Behance"/>
+          <img src="https://img.shields.io/badge/Behance-414141?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
         </a>
         <p>Aplicativo de análise e previsão de sinais financeiros utilizando algoritmos de machine learning avançados.</p>
       </div>
@@ -104,15 +103,15 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
       <h3 align="center">QubitSim</h3>
       <div align="center">
         <a href="https://github.com/dougdotcon/QubitSim" target="_blank">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
-        <p>é uma biblioteca JavaScript moderna que implementa conceitos fundamentais de computação quântica e criptografia quântica. Projetada para ser intuitiva e educacional</p>
+        <p>Biblioteca JavaScript moderna que implementa conceitos fundamentais de computação quântica e criptografia quântica. Projetada para ser intuitiva e educacional.</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">CryptoSignalsWeb</h3>
       <div align="center">
-        <a href="https://cryptosignals-institucional-test.vercel.app/" target="_blank"> 
+        <a href="https://cryptosignals-institucional-test.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
         </a>
         <p>Plataforma em desenvolvimento para gestão e análise de ativos digitais e criptomoedas.</p>
@@ -121,6 +120,7 @@ Atualmente, lidero a equipe técnica da **Asimov Industries** como CTO, onde des
   </tr>
 </table>
 </div>
+
 
 <div align="center">
   
