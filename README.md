@@ -61,8 +61,8 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="public/naren-logo.png" alt="NarenInk" width="80"/>
-      <h4>NarenInk</h4>
+      <img src="public/naren-logo.png" alt="NarenInc" width="80"/>
+      <h4>NarenInc</h4>
       <p>Consultoria Tecnológica (Comercial)</p>
     </td>
     <td align="center" width="20%">
@@ -566,7 +566,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dougdotcon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=dougdotcon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
