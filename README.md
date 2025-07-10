@@ -13,7 +13,7 @@
 
 <div align="center">
   
-### 🚀 CEO & CTO na AsimovTech Systems | Engenheiro de Dados | Cientista de Dados | Desenvolvedor Full Stack
+### 🚀 CEO & CTO na asimovtech systems | Engenheiro de Dados | Cientista de Dados | Desenvolvedor Full Stack
 
 *Transformando ideias em soluções tecnológicas inovadoras*
 
@@ -23,7 +23,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em **Sistemas de Informação** e **Física**. Como CEO e CTO da **AsimovTech Systems**, lidero uma equipe dedicada a criar soluções inovadoras que impactam positivamente a vida das pessoas.
+Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em **Sistemas de Informação** e **Física**. Como CEO e CTO da **asimovtech systems**, lidero uma equipe dedicada a criar soluções inovadoras que impactam positivamente a vida das pessoas.
 
 - 🔬 **70+ projetos** desenvolvidos em diversas áreas tecnológicas
 - 🏢 **15+ projetos** em produção ativa
@@ -38,8 +38,8 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="public/asimovtech-systems-logo.png" alt="AsimovTech Systems" width="120"/>
-      <h3>AsimovTech Systems</h3>
+      <img src="public/asimovtech-systems-logo.png" alt="asimovtech systems" width="120"/>
+      <h3>asimovtech systems</h3>
       <p><a href="https://asimovtech.systems/">🌐 asimovtech.systems</a></p>
       <p>Empresa de tecnologia especializada em soluções inovadoras</p>
     </td>
@@ -566,7 +566,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougdotcon&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dougdotcon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -638,7 +638,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 
 ##  Contribuições & Comunidade
 
-- **🏢 CEO & CTO da AsimovTech Systems**
+- **🏢 CEO & CTO da asimovtech systems**
   - Liderança de equipe técnica e estratégias de inovação
 
 - **💰 Fundador da AsimovTech Ventures**
