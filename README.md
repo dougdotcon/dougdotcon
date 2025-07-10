@@ -606,31 +606,24 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 
 ---
 
-##  Formação & Certificações
+## 🎓 Formação & Certificações
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Formação Acadêmica</h3>
-      <p><strong>Bacharelado em Sistemas de Informação</strong><br>
-      <em>Universidade Estácio de Sá (UNESA)</em><br>
-      2020 - 2024</p>
-      
-      <p><strong>Licenciatura em Física</strong><br>
-      <em>Universidade Federal do Rio de Janeiro (UFRJ)</em><br>
-      2021 - 2026</p>
-    </td>
-    <td width="50%">
-      <h3>🏆 Certificações em Andamento</h3>
-      <p>🔸 AWS Certified Machine Learning - Specialty<br>
-      🔸 Google Cloud Professional Data Engineer<br>
-      🔸 Microsoft Azure Data Scientist Associate<br>
-      🔸 Kubernetes Certified Administrator</p>
-    </td>
-  </tr>
-</table>
-</div>
+### 🎓 Formação Acadêmica
+
+**Bacharelado em Sistemas de Informação**  
+*Universidade Estácio de Sá (UNESA)*  
+2020 - 2024
+
+**Licenciatura em Física**  
+*Universidade Federal do Rio de Janeiro (UFRJ)*  
+2021 - 2026
+
+### 🏆 Certificações em Andamento
+
+- 🔸 AWS Certified Machine Learning - Specialty
+- 🔸 Google Cloud Professional Data Engineer
+- 🔸 Microsoft Azure Data Scientist Associate
+- 🔸 Kubernetes Certified Administrator
 
 ---
 
