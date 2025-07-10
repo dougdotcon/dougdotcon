@@ -566,7 +566,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dougdotcon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dougdotcon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
