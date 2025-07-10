@@ -38,13 +38,13 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="asimovtech-systems-logo.png" alt="AsimovTech Systems" width="120"/>
+      <img src="public/asimovtech-systems-logo.png" alt="AsimovTech Systems" width="120"/>
       <h3>AsimovTech Systems</h3>
       <p><a href="https://asimovtech.systems/">🌐 asimovtech.systems</a></p>
       <p>Empresa de tecnologia especializada em soluções inovadoras</p>
     </td>
     <td align="center" width="50%">
-      <img src="asimovtech-systems-logo.png" alt="AsimovTech Ventures" width="120"/>
+      <img src="public/asimovtech-systems-logo.png" alt="AsimovTech Ventures" width="120"/>
       <h3>AsimovTech Ventures</h3>
       <p><a href="https://asimovtech-ventures.vercel.app/">🌐 Fundo de Investimento</a></p>
       <p>Investimentos focados em startups de tecnologia</p>
@@ -88,21 +88,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="cryptosignalsmvp.png" alt="CryptoSignals" width="80"/>
+      <img src="public/cryptosignalsmvp.png" alt="CryptoSignals" width="80"/>
       <h3>CryptoSignals</h3>
       <p><a href="https://cryptosignals.me/">🌐 cryptosignals.me</a></p>
       <p>Plataforma SaaS de elite para trading de criptomoedas</p>
       <p><em>Trading & Criptomoedas</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="starkworksmaker3d.png" alt="StarkWorks" width="80"/>
+      <img src="public/starkworksmaker3d.png" alt="StarkWorks" width="80"/>
       <h3>StarkWorks Maker 3D</h3>
       <p><a href="https://starkworks-maker-3-d.vercel.app/">🌐 Plataforma</a></p>
       <p>Startup de impressão 3D sob demanda</p>
       <p><em>Impressão 3D</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="remoteops.svg" alt="RemoteOPS" width="80"/>
+      <img src="public/remoteops.png" alt="RemoteOPS" width="80"/>
       <h3>RemoteOPS</h3>
       <p>🔧 Produto Pronto</p>
       <p>Plataforma SaaS para gerenciamento de máquinas virtuais</p>
@@ -111,21 +111,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
   </tr>
   <tr>
     <td align="center">
-      <img src="personaltrainerapp.png" alt="PersonalTrainer App" width="80"/>
+      <img src="public/personaltrainerapp.png" alt="PersonalTrainer App" width="80"/>
       <h3>PersonalTrainer App</h3>
       <p>🏋️ Suporte Tecnológico</p>
       <p>Sistema completo para personal trainers</p>
       <p><em>Fitness & Saúde</em></p>
     </td>
     <td align="center">
-      <img src="whatsapp-compress-pdf.png" alt="WhatsApp PDF" width="80"/>
+      <img src="public/whatsapp-compress-pdf.png" alt="WhatsApp PDF" width="80"/>
       <h3>WhatsApp PDF Bot</h3>
       <p>🤖 Produção</p>
       <p>Bot para compressão de PDFs via WhatsApp</p>
       <p><em>Automação</em></p>
     </td>
     <td align="center">
-      <img src="drivetube-logo.png" alt="DriveTube" width="80"/>
+      <img src="public/drivetube-logo.png" alt="DriveTube" width="80"/>
       <h3>DriveTube</h3>
       <p>📺 Produto Pronto</p>
       <p>Interface para vídeos do Google Drive</p>
@@ -143,7 +143,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="nexlify-contabil.png" alt="NEXLIFY" width="80"/>
+      <img src="public/nexlify-contabil.png" alt="NEXLIFY" width="80"/>
       <h3>NEXLIFY</h3>
       <p>🛡️ Projeto Principal</p>
       <p>Plataforma de análise de riscos cibernéticos</p>
@@ -151,14 +151,14 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
       <p><em>Cibersegurança</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="menuflowai.png" alt="MenuFlowAI" width="80"/>
+      <img src="public/menuflowai.png" alt="MenuFlowAI" width="80"/>
       <h3>MenuFlowAI</h3>
       <p><a href="https://landingpage-menuflowai.vercel.app/">🌐 Landing Page</a></p>
       <p>Cardápio digital com integração WhatsApp</p>
       <p><em>Restaurantes & Food Tech</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="flashcompliance.png" alt="Flash Compliance" width="80"/>
+      <img src="public/flashcompliance.png" alt="Flash Compliance" width="80"/>
       <h3>Flash Compliance</h3>
       <p><a href="https://flash-compliance-landingpage.vercel.app/">🌐 Landing Page</a></p>
       <p>SaaS para verificação de trocas atômicas</p>
@@ -167,21 +167,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
   </tr>
   <tr>
     <td align="center">
-      <img src="docgenie.png" alt="DocGenie" width="80"/>
+      <img src="public/docgenie.png" alt="DocGenie" width="80"/>
       <h3>DocGenie</h3>
       <p><a href="https://landingpage-docgenie.vercel.app/">🌐 Landing Page</a></p>
       <p>SaaS para análise de documentos jurídicos</p>
       <p><em>Jurídico & Contábil</em></p>
     </td>
     <td align="center">
-      <img src="tempobrincar.png" alt="TempoBrincar" width="80"/>
+      <img src="public/tempobrincar.png" alt="TempoBrincar" width="80"/>
       <h3>TempoBrincar</h3>
       <p>🎮 Desenvolvimento</p>
       <p>App educativo para crianças</p>
       <p><em>Educação Infantil</em></p>
     </td>
     <td align="center">
-      <img src="echopilot.png" alt="EchoPilot" width="80"/>
+      <img src="public/echopilot.png" alt="EchoPilot" width="80"/>
       <h3>EchoPilot</h3>
       <p>🎥 Plataforma</p>
       <p>Mensagens em vídeo com IA</p>
@@ -199,25 +199,25 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="QuantAsimov.png" alt="QuantAsimov" width="80"/>
+      <img src="public/QuantAsimov.png" alt="QuantAsimov" width="80"/>
       <h3>QuantAsimov</h3>
       <p>⚛️ Blockchain Quantum-Resistant</p>
       <p><em>Blockchain & Quantum</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="QPEA-Quantum.png" alt="QPEA" width="80"/>
+      <img src="public/QPEA-Quantum.png" alt="QPEA" width="80"/>
       <h3>QPEA-Quantum</h3>
       <p>🔬 Quantum Protocol Assistant</p>
       <p><em>Computação Quântica</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="foresight.png" alt="Foresight" width="80"/>
+      <img src="public/foresight.png" alt="Foresight" width="80"/>
       <h3>Foresight</h3>
       <p>📊 Framework de Previsão</p>
       <p><em>Monitoramento & IA</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="foresightcloud.png" alt="Foresight Cloud" width="80"/>
+      <img src="public/foresightcloud.png" alt="Foresight Cloud" width="80"/>
       <h3>Foresight Cloud</h3>
       <p>☁️ SaaS de Monitoramento</p>
       <p><em>Cloud & Previsão</em></p>
@@ -234,25 +234,25 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="jarvistrade.png" alt="JarvisTrade" width="80"/>
+      <img src="public/jarvistrade.png" alt="JarvisTrade" width="80"/>
       <h3>JarvisTrade</h3>
       <p>🤖 Bot de Trading Local</p>
       <p><em>Trading Automatizado</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="alma-trading-system.png" alt="ALMA Trading" width="80"/>
+      <img src="public/alma-trading-system.png" alt="ALMA Trading" width="80"/>
       <h3>ALMA Trading</h3>
       <p>📈 Sistema Algorítmico</p>
       <p><em>ML & Backtesting</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="foretrading.png" alt="Foretrading" width="80"/>
+      <img src="public/foretrading.png" alt="Foretrading" width="80"/>
       <h3>Foretrading</h3>
       <p>📊 Framework de Mercado</p>
       <p><em>Séries Temporais</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="cryptosignalstelegram.png" alt="CryptoSignals Telegram" width="80"/>
+      <img src="public/cryptosignalstelegram.png" alt="CryptoSignals Telegram" width="80"/>
       <h3>CryptoSignals Bot</h3>
       <p>📱 Sistema Telegram</p>
       <p><em>Sinais de Trading</em></p>
@@ -269,7 +269,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="asimov-network.png" alt="ASIMOV Network" width="80"/>
+      <img src="public/asimov-network.png" alt="ASIMOV Network" width="80"/>
       <h3>ASIMOV Network</h3>
       <p>🌐 asimov.network</p>
       <p>Plataforma cyberpunk com roleplay</p>
@@ -282,7 +282,7 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
       <p><em>Gaming & Blockchain</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="streamview.png" alt="StreamView" width="80"/>
+      <img src="public/streamview.png" alt="StreamView" width="80"/>
       <h3>StreamView</h3>
       <p>🏗️ Timelapses com IA</p>
       <p>Geração automática para construção</p>
@@ -300,25 +300,25 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="video-mind-ai.png" alt="VideoMind AI" width="80"/>
+      <img src="public/video-mind-ai.png" alt="VideoMind AI" width="80"/>
       <h3>VideoMind AI</h3>
       <p>🎬 Automação YouTube Shorts</p>
       <p><em>Criação de Conteúdo</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="nexlify-agents.png" alt="Nexlify Agents" width="80"/>
+      <img src="public/nexlify-agents.png" alt="Nexlify Agents" width="80"/>
       <h3>Nexlify Agents</h3>
       <p>🧠 Framework de Agentes IA</p>
       <p><em>Inteligência de Enxame</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="daneel.png" alt="Daneel" width="80"/>
+      <img src="public/daneel.png" alt="Daneel" width="80"/>
       <h3>Daneel</h3>
       <p>💬 Motor de Conversação</p>
       <p><em>Agentes Inteligentes</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="enviromesh.png" alt="EnviroMesh" width="80"/>
+      <img src="public/enviromesh.png" alt="EnviroMesh" width="80"/>
       <h3>EnviroMesh</h3>
       <p>🌿 Fusão de Dados IoT</p>
       <p><em>Dados Ambientais</em></p>
@@ -335,21 +335,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="hypatium.png" alt="Hypatium" width="80"/>
+      <img src="public/hypatium.png" alt="Hypatium" width="80"/>
       <h3>Hypatium</h3>
       <p>🏥 Plataforma Integrada</p>
       <p>Sistema para profissionais de saúde</p>
       <p><em>Saúde Multidisciplinar</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="meutamanho.png" alt="MeuTamanho" width="80"/>
+      <img src="public/meutamanho.png" alt="MeuTamanho" width="80"/>
       <h3>MeuTamanho</h3>
       <p>👟 Medição com IA</p>
       <p>Sistema de medição de pés (92.1% precisão)</p>
       <p><em>Computer Vision</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="kvmpersonaltrainer.png" alt="KVM Personal Trainer" width="80"/>
+      <img src="public/kvmpersonaltrainer.png" alt="KVM Personal Trainer" width="80"/>
       <h3>KVM Personal Trainer</h3>
       <p>💪 Sistema Completo</p>
       <p>Gerenciamento para personal trainers</p>
@@ -367,25 +367,25 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="realverse-extensao.png" alt="RealVerse" width="80"/>
+      <img src="public/realverse-extensao.png" alt="RealVerse" width="80"/>
       <h3>RealVerse</h3>
       <p>💱 Conversor de Moedas</p>
       <p><em>Extensão Chrome</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="magnisearch.png" alt="MagniSearch" width="80"/>
+      <img src="public/magnisearch.png" alt="MagniSearch" width="80"/>
       <h3>MagniSearch</h3>
       <p>🔍 Busca Avançada</p>
       <p><em>Projeto Opensource</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="devhubs.png" alt="DevHubs" width="80"/>
+      <img src="public/devhubs.png" alt="DevHubs" width="80"/>
       <h3>DevHubs</h3>
       <p>👨‍💻 Quest-board Devs</p>
       <p><em>Desenvolvimento</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="facebook-alert-frauds.png" alt="Facebook Frauds" width="80"/>
+      <img src="public/facebook-alert-frauds.png" alt="Facebook Frauds" width="80"/>
       <h3>Facebook Frauds</h3>
       <p>🚨 Detector de Fraudes</p>
       <p><em>Segurança</em></p>
@@ -402,25 +402,25 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="exopipersaas.png" alt="Exo Piper SaaS" width="80"/>
+      <img src="public/exopipersaas.png" alt="Exo Piper SaaS" width="80"/>
       <h3>Exo Piper SaaS</h3>
       <p>⚡ Auditoria Performance</p>
       <p><em>100% Completo</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="exopipercli.png" alt="Exo Piper CLI" width="80"/>
+      <img src="public/exopipercli.png" alt="Exo Piper CLI" width="80"/>
       <h3>Exo Piper CLI</h3>
       <p>📊 Ferramenta CLI</p>
       <p><em>Análise Complexidade</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="plasmasyncdb.png" alt="PlasmaSync DB" width="80"/>
+      <img src="public/plasmasyncdb.png" alt="PlasmaSync DB" width="80"/>
       <h3>PlasmaSync DB</h3>
       <p>🗄️ Banco Imutável</p>
       <p><em>Replicação P2P</em></p>
     </td>
     <td align="center" width="25%">
-      <img src="githubats.png" alt="GitHub ATS" width="80"/>
+      <img src="public/githubats.png" alt="GitHub ATS" width="80"/>
       <h3>GitHub ATS</h3>
       <p>📄 Gerador CV</p>
       <p><em>Recrutamento</em></p>
@@ -437,21 +437,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="adibpdv.png" alt="AdibPDV" width="80"/>
+      <img src="public/adibpdv.png" alt="AdibPDV" width="80"/>
       <h3>AdibPDV</h3>
       <p>🏪 Sistema PDV</p>
       <p>Offline-first com integração fiscal</p>
       <p><em>Desenvolvimento</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="aeroroutepro.png" alt="AeroRoute Pro" width="80"/>
+      <img src="public/aeroroutepro.png" alt="AeroRoute Pro" width="80"/>
       <h3>AeroRoute Pro</h3>
       <p>✈️ Gestão Aérea</p>
       <p>Plataforma B2B para operações aéreas</p>
       <p><em>Aviação & Logística</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="asimov-capturadordeleads.png" alt="Capturador Leads" width="80"/>
+      <img src="public/asimov-capturadordeleads.png" alt="Capturador Leads" width="80"/>
       <h3>Asimov Leads</h3>
       <p>🎯 Google Maps</p>
       <p>Software para captura de leads</p>
@@ -469,21 +469,21 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="dublagembr.png" alt="DublagemBR" width="80"/>
+      <img src="public/dublagembr.png" alt="DublagemBR" width="80"/>
       <h3>DublagemBR</h3>
       <p>🎬 Dublagem Automática</p>
       <p>Sistema para vídeos YouTube</p>
       <p><em>Processamento de Vídeo</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="sass-rorschach.png" alt="Sass Rorschach" width="80"/>
+      <img src="public/sass-rorschach.png" alt="Sass Rorschach" width="80"/>
       <h3>Sass Rorschach</h3>
       <p>🧠 Teste Psicológico</p>
       <p>Implementação digital</p>
       <p><em>MVP</em></p>
     </td>
     <td align="center" width="33%">
-      <img src="ics-concept.png" alt="ICS" width="80"/>
+      <img src="public/ics-concept.png" alt="ICS" width="80"/>
       <h3>ICS</h3>
       <p>📊 Índice Social</p>
       <p>Sistema de contribuição social</p>
