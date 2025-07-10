@@ -60,20 +60,29 @@ Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <img src="public/naren-logo.png" alt="NarenInk" width="80"/>
       <h4>NarenInk</h4>
       <p>Consultoria Tecnológica (Comercial)</p>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <img src="public/muttercorp-logo.png" alt="Muttercorp" width="80"/>
       <h4>Muttercorp</h4>
       <p>Consultoria Tecnológica (Programação)</p>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <img src="public/kvmpersonaltrainer.png" alt="KVM Personal Trainer" width="80"/>
       <h4>KVM Personal Trainer</h4>
       <p>Sistemas de Fitness</p>
     </td>
-    <td align="center" width="25%">
-      <h4>ReisBit & PlumbEdit</h4>
+    <td align="center" width="20%">
+      <img src="public/ReisBit.png" alt="ReisBit" width="80"/>
+      <h4>ReisBit</h4>
+      <p>Edição de Vídeos</p>
+    </td>
+    <td align="center" width="20%">
+      <img src="public/plumb-edit.png" alt="PlumbEdit" width="80"/>
+      <h4>PlumbEdit</h4>
       <p>Edição de Vídeos</p>
     </td>
   </tr>
