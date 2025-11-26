@@ -13,7 +13,7 @@
 
 <div align="center">
   
-### 🚀 CEO & CTO na asimovtech systems | Engenheiro de Dados | Cientista de Dados | Desenvolvedor Full Stack
+### 🚀 Desenvolvedor Full Stack
 
 *Transformando ideias em soluções tecnológicas inovadoras*
 
