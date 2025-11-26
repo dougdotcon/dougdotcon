@@ -23,7 +23,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em **Sistemas de Informação** e **Física**. Como CEO e CTO da **asimovtech systems**, lidero uma equipe dedicada a criar soluções inovadoras que impactam positivamente a vida das pessoas.
+Sou um empreendedor e desenvolvedor apaixonado por tecnologia, com formação em **Sistemas de Informação** e **Física**.
 
 - 🔬 **70+ projetos** desenvolvidos em diversas áreas tecnológicas
 - 🏢 **15+ projetos** em produção ativa
