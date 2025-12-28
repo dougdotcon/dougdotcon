@@ -45,22 +45,21 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 ---
 
-## Stats & Impact
+## Technical Impact & Metrics
 
-- **70+ projects** developed (SaaS, Quant Trading, Scientific Tools).
-- **15+ systems** in active production.
-- **Top 1%** in translating abstract physics into production-grade code.
+<div align="center">
 
----
+| 🏆 Research | 🛠️ Engineering | 📊 Market Data |
+| :---: | :---: | :---: |
+| **Scientific Validation** | **Product Delivery** | **Quant Analysis** |
+| [![Research](https://img.shields.io/badge/Physics-Entropic_Gravity-blue?style=for-the-badge)](https://zenodo.org/records/18078771) | [![Projects](https://img.shields.io/badge/70+_Projects-Developed-green?style=for-the-badge)](https://github.com/dougdotcon?tab=repositories) | [![Analysis](https://img.shields.io/badge/Econophysics-Sentinel-orange?style=for-the-badge)](https://asimovtech.systems/) |
 
-## Stats & Impact
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dougdotcon&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+- **Foundational Excellence:** Over 70 projects developed across SaaS, Quant Trading, and Scientific Computing.
+- **Academic Rigor:** Active researcher at the **Federal University of Rio de Janeiro (UFRJ)**.
+- **Open Science:** Lead maintainer of the `EntropicGravity-Py` legacy.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougdotcon&layout=compact&langs_count=8&theme=tokyonight&border_radius=10)
-
----
 ---
 
 ## Education & Affiliations
