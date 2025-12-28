@@ -49,7 +49,7 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 <div align="center">
 
-| 🏆 Research | 🛠️ Engineering | 📊 Market Data |
+| Research | Engineering | Market Data |
 | :---: | :---: | :---: |
 | **Scientific Validation** | **Product Delivery** | **Quant Analysis** |
 | [![Research](https://img.shields.io/badge/Physics-Entropic_Gravity-blue?style=for-the-badge)](https://zenodo.org/records/18078771) | [![Projects](https://img.shields.io/badge/70+_Projects-Developed-green?style=for-the-badge)](https://github.com/dougdotcon?tab=repositories) | [![Analysis](https://img.shields.io/badge/Econophysics-Sentinel-orange?style=for-the-badge)](https://asimovtech.systems/) |
