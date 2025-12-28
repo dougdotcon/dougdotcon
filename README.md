@@ -51,9 +51,16 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 - **15+ systems** in active production.
 - **Top 1%** in translating abstract physics into production-grade code.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougdotcon&layout=compact&langs_count=8&theme=tokyonight)
+---
 
+## Stats & Impact
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dougdotcon&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougdotcon&layout=compact&langs_count=8&theme=tokyonight&border_radius=10)
+
+---
 ---
 
 ## Education & Affiliations
