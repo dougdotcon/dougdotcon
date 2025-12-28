@@ -1,115 +1,66 @@
-# Douglas Henrique Machado de Lima
+# Douglas Henrique Machado Fulber
 
-[Sponsor](https://github.com/sponsors/dougdotcon) | [LinkedIn](https://www.linkedin.com/in/dougdotcon/) | [GitHub](https://github.com/dougdotcon) | [Email](mailto:dougdotcon@gmail.com) | [Portfolio](https://asimovtech.systems/)
+[LinkedIn](https://www.linkedin.com/in/dougdotcon/) | [ORCID](https://orcid.org/0009-0006-8140-768X) | [Zenodo (Research DOI)](https://zenodo.org/records/18078771) | [Sponsor](https://github.com/sponsors/dougdotcon) | [Email](mailto:dougdotcon@gmail.com)
 
-### Quantitative Developer | Systems Engineer | Tech Founder
+### Quantitative Developer | Theoretical Physics Researcher | Systems Engineer 
 
-> Transforming complex system theories and information entropy into high-performance algorithms.
-
----
-
-## About Me
-
-I am a Software Engineer and Independent Researcher operating at the intersection of **Computer Science**, **Statistical Physics**, and **Financial Markets**.
-
-My approach combines robust software engineering with mathematical models of **Entropic Gravity** and **Information Thermodynamics** to build predictive and autonomous systems.
-
-- **70+ projects** developed (SaaS, Quant Trading, AI)
-- **15+ projects** in active, scalable production
-- **Current Focus:** Stochastic Modeling, Autonomous Agents, and Entropy-based Risk Analysis.
-- **Specialties:** Scientific Python, Blockchain, Algorithmic Trading, Cybersecurity.
+> "Information is Geometry. Transforming complex system theories and spacetime entropy into high-performance algorithms."
 
 ---
 
-## Main Ventures
+## 🔬 Scientific Research & Innovation
 
-* **[asimovtech systems](https://asimovtech.systems/)** – Technology lab focused on Complex Systems and AI solutions.
-* **[AsimovTech Ventures](https://asimovtech-ventures.vercel.app/)** – Investment arm focused on Deep Tech and Proprietary Algorithms.
+I am a researcher in **Theoretical Physics** and **Computational Science** currently affiliated with the **Federal University of Rio de Janeiro (UFRJ)**. My work focuses on the **Architecture of Thermodynamic Emergence (ATE)**, investigating the intersection of information theory and gravitational dynamics.
 
----
-
-## Quantitative Research & Innovation
-
-* **Project Sentinel (Econophysics):** Market anomaly detection algorithm utilizing Shannon Entropy and Emergent Gravity models.
-* **Foresight Framework (Stochastic Forecasting):** Predictive monitoring system designed to anticipate failures in distributed systems.
-* **Nexlify Swarm (Multi-Agent Systems):** Swarm intelligence framework for autonomous decision-making in high-uncertainty environments.
+*   **[EntropicGravity-Py](https://zenodo.org/records/18078771):** A computational framework for the numerical validation of Emergent Gravity. Successfully reproduced galactic rotation curves and lensing profiles without Dark Matter particles. **DOI: 10.5281/zenodo.18078771**.
+*   **Current Research:** Applying "Code-First Physics" to solve cosmological expansion tensions and investigating "Reactive Dark Matter" models.
+*   **ORCID:** [0009-0006-8140-768X](https://orcid.org/0009-0006-8140-768X)
 
 ---
 
-## Projects in Production (SaaS & Apps)
+## 💻 Tech Lab & Ventures
 
-* **[CryptoSignals](https://cryptosignals.me/)** – Elite SaaS platform for cryptocurrency trading signals.
-* **[StarkWorks Maker 3D](https://starkworks-maker-3-d.vercel.app/)** – On-demand 3D printing startup platform.
-* **RemoteOPS** – SaaS platform for virtual machine management (Live).
-* **DriveTube** – Streaming interface for Google Drive video content.
-* **WhatsApp PDF Bot** – Automated bot for PDF compression via WhatsApp.
+*   **[Asimovtech Systems](https://asimovtech.systems/)** – Founder & CTO. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
+*   **Project Sentinel:** Market anomaly detection utilizing Shannon Entropy and Emergent Gravity models to identify structural shifts in digital asset flows.
+*   **Flash Compliance:** SaaS framework for atomic swap verification and real-time blockchain auditing.
 
 ---
 
-## Active Development
+## 🛠️ Skills & Expertise
 
-* **NEXLIFY (Flagship Project):** Cyber risk analysis & auditing platform. (~€12,000 per analysis value).
-* **[MenuFlowAI](https://landingpage-menuflowai.vercel.app/)** – Digital menu solution with seamless WhatsApp integration.
-* **[Flash Compliance](https://flash-compliance-landingpage.vercel.app/)** – SaaS for atomic swap verification and compliance.
+**Core Research**
+*   **Theoretical Physics:** Entropic Gravity, Galactic Dynamics, Thermodynamics.
+*   **Numerical Methods:** N-Body Simulations, Stochastic Modeling, Monte Carlo.
+*   **Econophysics:** Entropy-based Risk Analysis, Algorithmic Trading.
 
----
-
-## Algorithmic Trading & Finance
-
-* **JarvisTrade:** Local Automated Trading Bot.
-* **ALMA Trading:** Algorithmic System for ML & Backtesting.
-* **Foretrading:** Market Framework for Time Series Analysis.
-* **CryptoSignals Bot:** Telegram System for Trading Signals.
+**Software Engineering**
+*   **Scientific Stack:** Python (NumPy, SciPy, Pandas, Matplotlib), Jupyter, Astropy.
+*   **High Performance:** Go, Rust, C++, Node.js.
+*   **Distributed Systems:** Docker, Kubernetes, AWS, Blockchain (Solana/Ethereum).
 
 ---
 
-## Scientific & Tech Stack
+## 📈 Stats & Impact
 
-**Scientific Computing & Data**
-* Python, NumPy, SciPy, Pandas, Jupyter
-
-**Backend & High Performance**
-* Go, Rust, Node.js, FastAPI
-
-**Frontend & Mobile**
-* React, Next.js, TypeScript, Flutter
-
-**Blockchain & Crypto**
-* Solana, Ethereum, Web3.js
-
-**Cloud & DevOps**
-* AWS, Docker, Kubernetes
-
----
-
-## GitHub Statistics
+- **70+ projects** developed (SaaS, Quant Trading, Scientific Tools).
+- **15+ systems** in active production.
+- **Top 1%** in translating abstract physics into production-grade code.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dougdotcon&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
-## Education
+## 🎓 Education & Affiliations
 
-* **B.Sc. in Information Systems** | Universidade Estácio de Sá (UNESA) | 2020 - 2024
-* **Theoretical Physics & Mathematical Modeling** | Independent Research | Focus: Thermodynamics, Statistical Mechanics, and Information Entropy.
-
----
-
-## Expertise
-
-* **Quantitative Development**
-* **Complex Systems & AI**
-* **Blockchain & DeFi**
-* **SaaS Architecture**
-* **Cybersecurity**
+*   **Federal University of Rio de Janeiro (UFRJ)** | B.Sc. in Physics (Active Researcher)
+    *   *Institute of Physics* | Focus: Mathematical Modeling & Gravitation.
+*   **Universidade Estácio de Sá (UNESA)** | B.Sc. in Information Systems
+    *   *Focus:* Data Analysis & Software Engineering.
 
 ---
 
 ### Let's Build the Future
-
-*Always open to collaborations on high-complexity technological projects.*
-
-[Sponsor Me on GitHub](https://github.com/sponsors/dougdotcon)
+*Always open to collaborations on high-complexity technological projects and scientific research.*
 
 **Turning chaos into code.**
