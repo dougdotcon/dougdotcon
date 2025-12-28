@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Sponsor](https://img.shields.io/badge/❤️%20Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dougdotcon)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dougdotcon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougdotcon/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dougdotcon)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougdotcon@gmail.com)
@@ -12,7 +12,7 @@
 
 <div align="center">
   
-### 🚀 Quantitative Developer | Systems Engineer | Tech Founder
+### Quantitative Developer | Systems Engineer | Tech Founder
 
 *Transforming complex system theories and information entropy into high-performance algorithms.*
 
@@ -20,20 +20,20 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I am a Software Engineer and Independent Researcher operating at the intersection of **Computer Science**, **Statistical Physics**, and **Financial Markets**.
 
 My approach combines robust software engineering with mathematical models of **Entropic Gravity** and **Information Thermodynamics** to build predictive and autonomous systems.
 
-- 🔬 **70+ projects** developed (SaaS, Quant Trading, AI)
-- 🏢 **15+ projects** in active, scalable production
-- 🧠 **Current Focus:** Stochastic Modeling, Autonomous Agents, and Entropy-based Risk Analysis.
-- 🎯 **Specialties:** Scientific Python, Blockchain, Algorithmic Trading, Cybersecurity.
+- **70+ projects** developed (SaaS, Quant Trading, AI)
+- **15+ projects** in active, scalable production
+- **Current Focus:** Stochastic Modeling, Autonomous Agents, and Entropy-based Risk Analysis.
+- **Specialties:** Scientific Python, Blockchain, Algorithmic Trading, Cybersecurity.
 
 ---
 
-## 🏢 Main Ventures
+## Main Ventures
 
 <div align="center">
 <table>
@@ -41,13 +41,13 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="50%">
       <img src="public/asimovtech-systems-logo.png" alt="asimovtech systems" width="120"/>
       <h3>asimovtech systems</h3>
-      <p><a href="https://asimovtech.systems/">🌐 asimovtech.systems</a></p>
+      <p><a href="https://asimovtech.systems/">asimovtech.systems</a></p>
       <p>Technology lab focused on Complex Systems and AI solutions</p>
     </td>
     <td align="center" width="50%">
       <img src="public/asimovtech-systems-logo.png" alt="AsimovTech Ventures" width="120"/>
       <h3>AsimovTech Ventures</h3>
-      <p><a href="https://asimovtech-ventures.vercel.app/">🌐 Investment Fund</a></p>
+      <p><a href="https://asimovtech-ventures.vercel.app/">Investment Fund</a></p>
       <p>Investment arm focused on Deep Tech and Proprietary Algorithms</p>
     </td>
   </tr>
@@ -56,7 +56,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-## 🔬 Quantitative Research & Innovation (Highlights)
+## Quantitative Research & Innovation
 
 <div align="center">
 <table>
@@ -64,19 +64,19 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="33%">
       <img src="public/QuantAsimov.png" alt="Sentinela do Caos" width="80"/>
       <h3>Project Sentinel</h3>
-      <p>📉 <em>Econophysics</em></p>
+      <p><em>Econophysics</em></p>
       <p>Market anomaly detection algorithm utilizing <strong>Shannon Entropy</strong> and Emergent Gravity models.</p>
     </td>
     <td align="center" width="33%">
       <img src="public/foresight.png" alt="Foresight" width="80"/>
       <h3>Foresight Framework</h3>
-      <p>📊 <em>Stochastic Forecasting</em></p>
+      <p><em>Stochastic Forecasting</em></p>
       <p>Predictive monitoring system designed to anticipate failures in distributed systems.</p>
     </td>
     <td align="center" width="33%">
       <img src="public/nexlify-agents.png" alt="Nexlify Agents" width="80"/>
       <h3>Nexlify Swarm</h3>
-      <p>🧠 <em>Multi-Agent Systems</em></p>
+      <p><em>Multi-Agent Systems</em></p>
       <p>Swarm intelligence framework for autonomous decision-making in high-uncertainty environments.</p>
     </td>
   </tr>
@@ -85,7 +85,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-## 🚀 Projects in Production (SaaS & Apps)
+## Projects in Production (SaaS & Apps)
 
 <div align="center">
 <table>
@@ -93,21 +93,21 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="33%">
       <img src="public/cryptosignalsmvp.png" alt="CryptoSignals" width="80"/>
       <h3>CryptoSignals</h3>
-      <p><a href="https://cryptosignals.me/">🌐 cryptosignals.me</a></p>
+      <p><a href="https://cryptosignals.me/">cryptosignals.me</a></p>
       <p>Elite SaaS platform for cryptocurrency trading signals</p>
       <p><em>Trading & Crypto</em></p>
     </td>
     <td align="center" width="33%">
       <img src="public/starkworksmaker3d.png" alt="StarkWorks" width="80"/>
       <h3>StarkWorks Maker 3D</h3>
-      <p><a href="https://starkworks-maker-3-d.vercel.app/">🌐 Platform</a></p>
+      <p><a href="https://starkworks-maker-3-d.vercel.app/">Platform</a></p>
       <p>On-demand 3D printing startup</p>
       <p><em>3D Printing</em></p>
     </td>
     <td align="center" width="33%">
       <img src="public/remoteops.png" alt="RemoteOPS" width="80"/>
       <h3>RemoteOPS</h3>
-      <p>🔧 Live Product</p>
+      <p>Live Product</p>
       <p>SaaS platform for virtual machine management</p>
       <p><em>DevOps & Infrastructure</em></p>
     </td>
@@ -116,21 +116,21 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center">
       <img src="public/personaltrainerapp.png" alt="PersonalTrainer App" width="80"/>
       <h3>PersonalTrainer App</h3>
-      <p>🏋️ Tech Support</p>
+      <p>Tech Support</p>
       <p>Comprehensive management system for personal trainers</p>
       <p><em>Fitness & Health</em></p>
     </td>
     <td align="center">
       <img src="public/whatsapp-compress-pdf.png" alt="WhatsApp PDF" width="80"/>
       <h3>WhatsApp PDF Bot</h3>
-      <p>🤖 Live</p>
+      <p>Live</p>
       <p>Automated bot for PDF compression via WhatsApp</p>
       <p><em>Automation</em></p>
     </td>
     <td align="center">
       <img src="public/drivetube-logo.png" alt="DriveTube" width="80"/>
       <h3>DriveTube</h3>
-      <p>📺 Live Product</p>
+      <p>Live Product</p>
       <p>Streaming interface for Google Drive video content</p>
       <p><em>Streaming & EdTech</em></p>
     </td>
@@ -140,7 +140,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-## 🛠️ Active Development
+## Active Development
 
 <div align="center">
 <table>
@@ -148,7 +148,7 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="33%">
       <img src="public/nexlify-contabil.png" alt="NEXLIFY" width="80"/>
       <h3>NEXLIFY</h3>
-      <p>🛡️ Flagship Project</p>
+      <p>Flagship Project</p>
       <p>Cyber risk analysis & auditing platform</p>
       <p><strong>Value:</strong> ~€12,000 per analysis</p>
       <p><em>Cybersecurity</em></p>
@@ -156,14 +156,14 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="33%">
       <img src="public/menuflowai.png" alt="MenuFlowAI" width="80"/>
       <h3>MenuFlowAI</h3>
-      <p><a href="https://landingpage-menuflowai.vercel.app/">🌐 Landing Page</a></p>
+      <p><a href="https://landingpage-menuflowai.vercel.app/">Landing Page</a></p>
       <p>Digital menu solution with seamless WhatsApp integration</p>
       <p><em>Restaurants & Food Tech</em></p>
     </td>
     <td align="center" width="33%">
       <img src="public/flashcompliance.png" alt="Flash Compliance" width="80"/>
       <h3>Flash Compliance</h3>
-      <p><a href="https://flash-compliance-landingpage.vercel.app/">🌐 Landing Page</a></p>
+      <p><a href="https://flash-compliance-landingpage.vercel.app/">Landing Page</a></p>
       <p>SaaS for atomic swap verification and compliance</p>
       <p><em>Compliance & Blockchain</em></p>
     </td>
@@ -173,7 +173,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-## 📊 Algorithmic Trading & Finance
+## Algorithmic Trading & Finance
 
 <div align="center">
 <table>
@@ -181,25 +181,25 @@ My approach combines robust software engineering with mathematical models of **E
     <td align="center" width="25%">
       <img src="public/jarvistrade.png" alt="JarvisTrade" width="80"/>
       <h3>JarvisTrade</h3>
-      <p>🤖 Local Trading Bot</p>
+      <p>Local Trading Bot</p>
       <p><em>Automated Trading</em></p>
     </td>
     <td align="center" width="25%">
       <img src="public/alma-trading-system.png" alt="ALMA Trading" width="80"/>
       <h3>ALMA Trading</h3>
-      <p>📈 Algorithmic System</p>
+      <p>Algorithmic System</p>
       <p><em>ML & Backtesting</em></p>
     </td>
     <td align="center" width="25%">
       <img src="public/foretrading.png" alt="Foretrading" width="80"/>
       <h3>Foretrading</h3>
-      <p>📊 Market Framework</p>
+      <p>Market Framework</p>
       <p><em>Time Series Analysis</em></p>
     </td>
     <td align="center" width="25%">
       <img src="public/cryptosignalstelegram.png" alt="CryptoSignals Telegram" width="80"/>
       <h3>CryptoSignals Bot</h3>
-      <p>📱 Telegram System</p>
+      <p>Telegram System</p>
       <p><em>Trading Signals</em></p>
     </td>
   </tr>
@@ -208,7 +208,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-##  Scientific & Tech Stack
+## Scientific & Tech Stack
 
 <div align="center">
 
@@ -245,7 +245,7 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -258,15 +258,15 @@ My approach combines robust software engineering with mathematical models of **E
 
 ---
 
-## 🎓 Education
+## Education
 
-**B.Sc. in Information Systems** *Universidade Estácio de Sá (UNESA)* 2020 - 2024
+**B.Sc. in Information Systems** | *Universidade Estácio de Sá (UNESA)* | 2020 - 2024
 
-**Theoretical Physics & Mathematical Modeling** *Independent Research & Computational Application* Focus: Thermodynamics, Statistical Mechanics, and Information Entropy.
+**Theoretical Physics & Mathematical Modeling** | *Independent Research & Computational Application* | Focus: Thermodynamics, Statistical Mechanics, and Information Entropy.
 
 ---
 
-##  Consulting Expertise
+## Areas of Expertise
 
 <div align="center">
   
@@ -282,12 +282,12 @@ My approach combines robust software engineering with mathematical models of **E
 
 <div align="center">
 
-### 🚀 Let's Build the Future Together!
+### Let's Build the Future
 
 *Always open to collaborations on high-complexity technological projects.*
 
-[![Sponsor](https://img.shields.io/badge/❤️%20Sponsor%20Me-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dougdotcon)
+[![Sponsor](https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dougdotcon)
 
-**Turning chaos into code.** 💻✨
+**Turning chaos into code.**
 
 </div>
