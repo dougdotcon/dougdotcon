@@ -1,6 +1,10 @@
 # Douglas Henrique Machado Fulber
 
-[LinkedIn](https://www.linkedin.com/in/dougdotcon/) | [ORCID](https://orcid.org/0009-0006-8140-768X) | [Zenodo (Research DOI)](https://zenodo.org/records/18078771) | [Sponsor](https://github.com/sponsors/dougdotcon) | [Email](mailto:dougdotcon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dougdotcon/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8140-768X)
+[![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square)](https://zenodo.org/records/18078771)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dougdotcon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dougdotcon@gmail.com)
 
 ### Quantitative Developer | Theoretical Physics Researcher | Systems Engineer 
 
@@ -8,39 +12,40 @@
 
 ---
 
-## 🔬 Scientific Research & Innovation
+## Scientific Research & Innovation
 
 I am a researcher in **Theoretical Physics** and **Computational Science** currently affiliated with the **Federal University of Rio de Janeiro (UFRJ)**. My work focuses on the **Architecture of Thermodynamic Emergence (ATE)**, investigating the intersection of information theory and gravitational dynamics.
 
-*   **[EntropicGravity-Py](https://zenodo.org/records/18078771):** A computational framework for the numerical validation of Emergent Gravity. Successfully reproduced galactic rotation curves and lensing profiles without Dark Matter particles. **DOI: 10.5281/zenodo.18078771**.
+*   **EntropicGravity-Py:** A computational framework for the numerical validation of Emergent Gravity. Successfully reproduced galactic rotation curves and lensing profiles without Dark Matter particles. **DOI: 10.5281/zenodo.18078771**.
 *   **Current Research:** Applying "Code-First Physics" to solve cosmological expansion tensions and investigating "Reactive Dark Matter" models.
-*   **ORCID:** [0009-0006-8140-768X](https://orcid.org/0009-0006-8140-768X)
 
 ---
 
-## 💻 Tech Lab & Ventures
+## Tech Lab & Ventures
 
-*   **[Asimovtech Systems](https://asimovtech.systems/)** – Founder & CTO. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
+*   **Asimovtech Systems** – Founder & CTO. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
 *   **Project Sentinel:** Market anomaly detection utilizing Shannon Entropy and Emergent Gravity models to identify structural shifts in digital asset flows.
 *   **Flash Compliance:** SaaS framework for atomic swap verification and real-time blockchain auditing.
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
 **Core Research**
-*   **Theoretical Physics:** Entropic Gravity, Galactic Dynamics, Thermodynamics.
-*   **Numerical Methods:** N-Body Simulations, Stochastic Modeling, Monte Carlo.
-*   **Econophysics:** Entropy-based Risk Analysis, Algorithmic Trading.
+![Physics](https://img.shields.io/badge/Physics-Theoretical-blue?style=flat-square)
+![Dynamics](https://img.shields.io/badge/Galactic-Dynamics-orange?style=flat-square)
+![Simulations](https://img.shields.io/badge/Numerical-Simulations-green?style=flat-square)
 
 **Software Engineering**
-*   **Scientific Stack:** Python (NumPy, SciPy, Pandas, Matplotlib), Jupyter, Astropy.
-*   **High Performance:** Go, Rust, C++, Node.js.
-*   **Distributed Systems:** Docker, Kubernetes, AWS, Blockchain (Solana/Ethereum).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📈 Stats & Impact
+## Stats & Impact
 
 - **70+ projects** developed (SaaS, Quant Trading, Scientific Tools).
 - **15+ systems** in active production.
@@ -51,12 +56,10 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 ---
 
-## 🎓 Education & Affiliations
+## Education & Affiliations
 
 *   **Federal University of Rio de Janeiro (UFRJ)** | B.Sc. in Physics (Active Researcher)
-    *   *Institute of Physics* | Focus: Mathematical Modeling & Gravitation.
 *   **Universidade Estácio de Sá (UNESA)** | B.Sc. in Information Systems
-    *   *Focus:* Data Analysis & Software Engineering.
 
 ---
 
