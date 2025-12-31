@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dougdotcon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dougdotcon@gmail.com)
 
-### Quantitative Developer | Theoretical Physics Researcher | Systems Engineer 
+### Quantitative Developer | Theoretical Physics Researcher | Systems Engineer
 
 > "Information is Geometry. Transforming complex system theories and spacetime entropy into high-performance algorithms."
 
@@ -14,18 +14,40 @@
 
 ## Scientific Research & Innovation
 
-I am a researcher in **Theoretical Physics** and **Computational Science** currently affiliated with the **Federal University of Rio de Janeiro (UFRJ)**. My work focuses on the **Architecture of Thermodynamic Emergence (ATE)**, investigating the intersection of information theory and gravitational dynamics.
+I am a researcher in **Theoretical Physics** and **Computational Science** currently affiliated with the **Federal University of Rio de Janeiro (UFRJ)**. My work applies "Code-First Physics" to solve fundamental cosmological tensions without the Dark Sector.
 
-*   **EntropicGravity-Py:** A computational framework for the numerical validation of Emergent Gravity. Successfully reproduced galactic rotation curves and lensing profiles without Dark Matter particles. **DOI: 10.5281/zenodo.18078771**.
-*   **Current Research:** Applying "Code-First Physics" to solve cosmological expansion tensions and investigating "Reactive Dark Matter" models.
+### 1. Unified Cosmology: The Reactive Entropic Gravity Framework
+**Focus:** Cosmological Tensions ($H_0$, $\sigma_8$) & CMB Power Spectrum.
+* [cite_start]**Core Discovery:** Replaced Dark Matter with a thermodynamic response function coupled to the Hubble horizon via coefficient **$\alpha \approx 0.47$**[cite: 121].
+* [cite_start]**The TARDIS Effect:** Identified a metric compression factor **$\Gamma \approx 117$** necessary to preserve thermodynamic unitarity[cite: 123].
+* [cite_start]**Key Validation:** Recovered the **3rd Acoustic Peak** of the CMB and the cosmic expansion history indistinguishable from standard models[cite: 122].
+
+### 2. Black Hole Universe: Geometric Inflation
+**Focus:** Primordial Cosmology & Metric Inversion.
+* [cite_start]**Mechanism:** Non-minimal scalar coupling $\xi R\phi^{2}$ as the inflationary mechanism[cite: 8].
+* [cite_start]**Critical Parameters:** Identified **$\xi=100$** producing exactly **$N=61.7$ e-folds**, solving horizon and flatness problems[cite: 8].
+* [cite_start]**Geometric Constraints:** Validated Gaztañaga's duality with a ratio **$R_{s}/R_{H} = 1.096$**, confirming our cosmos originates from a parent black hole interior[cite: 9].
+
+### 3. Information as Geometry (Informação como Geometria)
+**Focus:** Galactic Dynamics & Gravitational Lensing.
+* [cite_start]**Lensing "Kill Shot":** Proved that the Entropic Potential produces a deflection angle plateau, mimicking an Isothermal Dark Matter Halo ($\rho \propto r^{-2}$) without WIMPs[cite: 261].
+* [cite_start]**Stability Analysis:** Demonstrated that entropic forces create a "Phantom Halo" effect, maintaining Toomre stability ($Q > 1$) for galactic disks[cite: 247].
+* [cite_start]**Methodology:** Implemented "Code-First Physics" with 7 distinct computational unit tests including Richardson Extrapolation for numerical convergence[cite: 205, 209].
+
+### 4. The Reactive Universe (O Universo Reativo)
+**Focus:** Large Scale Structure & Dynamical Friction.
+* [cite_start]**Satellite Planes:** Simulations revealed that the External Field Effect (EFE) breaks spherical symmetry, causing satellites to collapse into a co-rotating plane, solving the Milky Way satellite alignment problem[cite: 408].
+* [cite_start]**Merger Dynamics:** Demonstrated a "Flyby" trajectory solution for interacting galaxies, resolving the "Halo Drag" problem where standard CDM predicts rapid mergers[cite: 438].
+* [cite_start]**JWST Crisis:** The enhanced acceleration $a_0(z)$ drives primordial cloud collapse ~0.5 Gyr faster than $\Lambda$CDM, explaining "impossibly early" massive galaxies[cite: 415].
 
 ---
 
 ## Tech Lab & Ventures
 
-*   **Asimovtech Systems** – Founder & CTO. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
-*   **Project Sentinel:** Market anomaly detection utilizing Shannon Entropy and Emergent Gravity models to identify structural shifts in digital asset flows.
-*   **Flash Compliance:** SaaS framework for atomic swap verification and real-time blockchain auditing.
+* **Asimovtech Systems** – **Founder & CTO**. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
+* [cite_start]**PlanckDynamics Engine:** A Python-based symplectic integrator for cosmological MCMC simulations[cite: 135].
+* [cite_start]**EntropicGravity-Py:** Open-source framework for numerical validation of Emergent Gravity[cite: 186].
+* **Project Sentinel:** Market anomaly detection utilizing Shannon Entropy.
 
 ---
 
@@ -33,15 +55,16 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 **Core Research**
 ![Physics](https://img.shields.io/badge/Physics-Theoretical-blue?style=flat-square)
+![Cosmology](https://img.shields.io/badge/Cosmology-Relativistic-purple?style=flat-square)
 ![Dynamics](https://img.shields.io/badge/Galactic-Dynamics-orange?style=flat-square)
-![Simulations](https://img.shields.io/badge/Numerical-Simulations-green?style=flat-square)
+![Simulations](https://img.shields.io/badge/MCMC-Simulations-green?style=flat-square)
 
 **Software Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-High_Performance-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Systems-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Safety-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Algorithms-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -49,27 +72,27 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 <div align="center">
 
-| Research | Engineering | Market Data |
+| Research Focus | Engineering Output | Market Analysis |
 | :---: | :---: | :---: |
-| **Scientific Validation** | **Product Delivery** | **Quant Analysis** |
-| [![Research](https://img.shields.io/badge/Physics-Entropic_Gravity-blue?style=for-the-badge)](https://zenodo.org/records/18078771) | [![Projects](https://img.shields.io/badge/70+_Projects-Developed-green?style=for-the-badge)](https://github.com/dougdotcon?tab=repositories) | [![Analysis](https://img.shields.io/badge/Econophysics-Sentinel-orange?style=for-the-badge)](https://asimovtech.systems/) |
+| **Code-First Physics** | **Product Delivery** | **Quant Systems** |
+| [![Research](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18090702-blue?style=for-the-badge)](https://zenodo.org/records/18090702) | [![Projects](https://img.shields.io/badge/70+_Projects-Shipped-green?style=for-the-badge)](https://github.com/dougdotcon?tab=repositories) | [![Analysis](https://img.shields.io/badge/Algorithmic-Trading-orange?style=for-the-badge)](https://asimovtech.systems/) |
 
 </div>
 
-- **Foundational Excellence:** Over 70 projects developed across SaaS, Quant Trading, and Scientific Computing.
-- **Academic Rigor:** Active researcher at the **Federal University of Rio de Janeiro (UFRJ)**.
-- **Open Science:** Lead maintainer of the `EntropicGravity-Py` legacy.
+-   **Unified Cosmology:** Author of 4 groundbreaking papers on Reactive Entropic Gravity and Black Hole Cosmology.
+-   **Open Science:** Lead maintainer of `EntropicGravity-Py` and `PlanckDynamics`.
+-   **Innovation:** Bridging the gap between abstract theoretical physics and executable software solutions.
 
 ---
 
 ## Education & Affiliations
 
-*   **Federal University of Rio de Janeiro (UFRJ)** | B.Sc. in Physics (Active Researcher)
-*   **Universidade Estácio de Sá (UNESA)** | B.Sc. in Information Systems
+* **Federal University of Rio de Janeiro (UFRJ)** | B.Sc. in Physics (Active Researcher)
+* **Universidade Estácio de Sá (UNESA)** | B.Sc. in Information Systems
 
 ---
 
 ### Let's Build the Future
-*Always open to collaborations on high-complexity technological projects and scientific research.*
+*Always open to collaborations on high-complexity technological projects, dark sector cosmology, and AI architecture.*
 
 **Turning chaos into code.**
