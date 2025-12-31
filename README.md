@@ -18,35 +18,35 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 
 ### 1. Unified Cosmology: The Reactive Entropic Gravity Framework
 **Focus:** Cosmological Tensions ($H_0$, $\sigma_8$) & CMB Power Spectrum.
-* [cite_start]**Core Discovery:** Replaced Dark Matter with a thermodynamic response function coupled to the Hubble horizon via coefficient **$\alpha \approx 0.47$**[cite: 121].
-* [cite_start]**The TARDIS Effect:** Identified a metric compression factor **$\Gamma \approx 117$** necessary to preserve thermodynamic unitarity[cite: 123].
-* [cite_start]**Key Validation:** Recovered the **3rd Acoustic Peak** of the CMB and the cosmic expansion history indistinguishable from standard models[cite: 122].
+* **Core Discovery:** Replaced Dark Matter with a thermodynamic response function coupled to the Hubble horizon via coefficient **$\alpha \approx 0.47$**.
+* **The TARDIS Effect:** Identified a metric compression factor **$\Gamma \approx 117$** necessary to preserve thermodynamic unitarity.
+* **Key Validation:** Recovered the **3rd Acoustic Peak** of the CMB and the cosmic expansion history indistinguishable from standard models.
 
 ### 2. Black Hole Universe: Geometric Inflation
 **Focus:** Primordial Cosmology & Metric Inversion.
-* [cite_start]**Mechanism:** Non-minimal scalar coupling $\xi R\phi^{2}$ as the inflationary mechanism[cite: 8].
-* [cite_start]**Critical Parameters:** Identified **$\xi=100$** producing exactly **$N=61.7$ e-folds**, solving horizon and flatness problems[cite: 8].
-* [cite_start]**Geometric Constraints:** Validated Gaztañaga's duality with a ratio **$R_{s}/R_{H} = 1.096$**, confirming our cosmos originates from a parent black hole interior[cite: 9].
+* **Mechanism:** Non-minimal scalar coupling $\xi R\phi^{2}$ as the inflationary mechanism.
+* **Critical Parameters:** Identified **$\xi=100$** producing exactly **$N=61.7$ e-folds**, solving horizon and flatness problems.
+* **Geometric Constraints:** Validated Gaztañaga's duality with a ratio **$R_{s}/R_{H} = 1.096$**, confirming our cosmos originates from a parent black hole interior.
 
 ### 3. Information as Geometry (Informação como Geometria)
 **Focus:** Galactic Dynamics & Gravitational Lensing.
-* [cite_start]**Lensing "Kill Shot":** Proved that the Entropic Potential produces a deflection angle plateau, mimicking an Isothermal Dark Matter Halo ($\rho \propto r^{-2}$) without WIMPs[cite: 261].
-* [cite_start]**Stability Analysis:** Demonstrated that entropic forces create a "Phantom Halo" effect, maintaining Toomre stability ($Q > 1$) for galactic disks[cite: 247].
-* [cite_start]**Methodology:** Implemented "Code-First Physics" with 7 distinct computational unit tests including Richardson Extrapolation for numerical convergence[cite: 205, 209].
+* **Lensing "Kill Shot":** Proved that the Entropic Potential produces a deflection angle plateau, mimicking an Isothermal Dark Matter Halo ($\rho \propto r^{-2}$) without WIMPs.
+* **Stability Analysis:** Demonstrated that entropic forces create a "Phantom Halo" effect, maintaining Toomre stability ($Q > 1$) for galactic disks.
+* **Methodology:** Implemented "Code-First Physics" with 7 distinct computational unit tests including Richardson Extrapolation for numerical convergence.
 
 ### 4. The Reactive Universe (O Universo Reativo)
 **Focus:** Large Scale Structure & Dynamical Friction.
-* [cite_start]**Satellite Planes:** Simulations revealed that the External Field Effect (EFE) breaks spherical symmetry, causing satellites to collapse into a co-rotating plane, solving the Milky Way satellite alignment problem[cite: 408].
-* [cite_start]**Merger Dynamics:** Demonstrated a "Flyby" trajectory solution for interacting galaxies, resolving the "Halo Drag" problem where standard CDM predicts rapid mergers[cite: 438].
-* [cite_start]**JWST Crisis:** The enhanced acceleration $a_0(z)$ drives primordial cloud collapse ~0.5 Gyr faster than $\Lambda$CDM, explaining "impossibly early" massive galaxies[cite: 415].
+* **Satellite Planes:** Simulations revealed that the External Field Effect (EFE) breaks spherical symmetry, causing satellites to collapse into a co-rotating plane, solving the Milky Way satellite alignment problem.
+* **Merger Dynamics:** Demonstrated a "Flyby" trajectory solution for interacting galaxies, resolving the "Halo Drag" problem where standard CDM predicts rapid mergers.
+* **JWST Crisis:** The enhanced acceleration $a_0(z)$ drives primordial cloud collapse ~0.5 Gyr faster than $\Lambda$CDM, explaining "impossibly early" massive galaxies.
 
 ---
 
 ## Tech Lab & Ventures
 
 * **Asimovtech Systems** – **Founder & CTO**. A technology lab focused on Complex Systems, Econophysics, and AI solutions.
-* [cite_start]**PlanckDynamics Engine:** A Python-based symplectic integrator for cosmological MCMC simulations[cite: 135].
-* [cite_start]**EntropicGravity-Py:** Open-source framework for numerical validation of Emergent Gravity[cite: 186].
+* **PlanckDynamics Engine:** A Python-based symplectic integrator for cosmological MCMC simulations.
+* **EntropicGravity-Py:** Open-source framework for numerical validation of Emergent Gravity.
 * **Project Sentinel:** Market anomaly detection utilizing Shannon Entropy.
 
 ---
