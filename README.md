@@ -146,7 +146,7 @@ I am a researcher in **Theoretical Physics** and **Computational Science** curre
 | Repository | Discipline | Description |
 | :--- | :--- | :--- |
 | **[LatexGenerator](./LatexGenerator)** | ![AI](https://img.shields.io/badge/Tool-AI_LaTeX-teal?style=flat-square) | AI-powered system to generate compilable LaTeX figures from natural language. |
-| **[drivetube](./[drivetube](https://github.com/dougdotcon/drivetube))** | ![Web](https://img.shields.io/badge/App-Streaming_Platform-cyan?style=flat-square) | Secure interface for streaming Google Drive content with crypto payments. |
+| **[drivetube](https://github.com/dougdotcon/drivetube)** | ![Web](https://img.shields.io/badge/App-Streaming_Platform-cyan?style=flat-square) | Secure interface for streaming Google Drive content with crypto payments. |
 
 ---
 
