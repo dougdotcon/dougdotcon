@@ -12,7 +12,7 @@
 
 ---
 
-## Scientific Research &
+## Scientific Research 
 
 I am the researcher at the **Federal University of Rio de Janeiro (UFRJ)**. My work has culminated in the **Tamesis System**, a complete unification of Quantum Mechanics and General Relativity via the **Theory of Regime Incompatibility (TRI)** and **Thermodynamic Time Reversal (TDTR)**.
 
