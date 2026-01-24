@@ -100,7 +100,7 @@ I am the researcher at the **Federal University of Rio de Janeiro (UFRJ)**. My w
 
 | Repository | Discipline | Description |
 | :--- | :--- | :--- |
-| **[ToE](https://github.com/dougdotcon/ToE)** | ![Unified Physics](https://img.shields.io/badge/Physics-Unified_Theory-purple?style=flat-square) | **The Master Repository.** The Tamesis Theory Complete Research Archive. 150+ Proofs. |
+| **[ToE](https://github.com/dougdotcon/TamesisTheoryCompleteResearchArchive)** | ![Unified Physics](https://img.shields.io/badge/Physics-Unified_Theory-purple?style=flat-square) | **The Master Repository.** The Tamesis Theory Complete Research Archive. 150+ Proofs. |
 | **[PlanckDynamics](https://github.com/dougdotcon/PlanckDynamics)** | ![Cosmology](https://img.shields.io/badge/Science-Cosmology-blue?style=flat-square) | Resolves Hubble Tension & CMB peaks via Reactive Gravity ($\alpha=0.47$) as thermodynamic response. |
 | **[EntropicGravity-Py](https://github.com/dougdotcon/EntropicGravity-Py)** | ![Simulation](https://img.shields.io/badge/Code-N_Body-green?style=flat-square) | N-Body engine for TDTR/Verlinde's Entropic Gravity, simulating galactic rotation curves without DM. |
 | **[HolographicOrigin](https://github.com/dougdotcon/HolographicOriginofMatterandDynamics)** | ![Geometry](https://img.shields.io/badge/Physics-Quantum_Geometry-indigo?style=flat-square) | Geometric inference of electron mass and derivation of standard constants. |
