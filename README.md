@@ -6,15 +6,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dougdotcon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dougdotcon@gmail.com)
 
-### Research | Quantitative Developer | Theoretical Physicist
+### Physics Student | Quantitative Developer | Information Systems B.Sc
 
 > "Physics is the operating system of the cosmos. We have decompiled the kernel."
 
 ---
 
-## Scientific Research 
+## Scientific Research
 
-I am the researcher at the **Federal University of Rio de Janeiro (UFRJ)**. My work has culminated in the **Tamesis System**, a complete unification of Quantum Mechanics and General Relativity via the **Theory of Regime Incompatibility (TRI)** and **Thermodynamic Time Reversal (TDTR)**.
+I am a **Physics Student** at the **Federal University of Rio de Janeiro (UFRJ)** and a **Bachelor in Information Systems** from **Estácio de Sá University (UNESA)**. My independent research has culminated in the **Tamesis System**, a complete unification of Quantum Mechanics and General Relativity via the **Theory of Regime Incompatibility (TRI)** and **Thermodynamic Time Reversal (TDTR)**.
 
 ### 1. The Tamesis System (Complete)
 
@@ -100,7 +100,7 @@ I am the researcher at the **Federal University of Rio de Janeiro (UFRJ)**. My w
 
 | Repository | Discipline | Description |
 | :--- | :--- | :--- |
-| **[ToE](https://github.com/dougdotcon/TamesisTheoryCompleteResearchArchive)** | ![Unified Physics](https://img.shields.io/badge/Physics-Unified_Theory-purple?style=flat-square) | **The Master Repository.** The Tamesis Theory Complete Research Archive. 150+ Proofs. |
+| **[ToE](https://github.com/dougdotcon/TamesisTheoryCompleteResearchArchive)** | ![Unified Physics](https://img.shields.io/badge/Physics-Unified_Theory-purple?style=flat-square) | **The Master Repository.** The Tamesis System. Contains: $U_{1/2}$ Universality Class, TRI No-Go Theorems, $M_c$ Derivation, and the 150+ Proofs of the Regime Incompatibility. |
 | **[PlanckDynamics](https://github.com/dougdotcon/PlanckDynamics)** | ![Cosmology](https://img.shields.io/badge/Science-Cosmology-blue?style=flat-square) | Resolves Hubble Tension & CMB peaks via Reactive Gravity ($\alpha=0.47$) as thermodynamic response. |
 | **[EntropicGravity-Py](https://github.com/dougdotcon/EntropicGravity-Py)** | ![Simulation](https://img.shields.io/badge/Code-N_Body-green?style=flat-square) | N-Body engine for TDTR/Verlinde's Entropic Gravity, simulating galactic rotation curves without DM. |
 | **[HolographicOrigin](https://github.com/dougdotcon/HolographicOriginofMatterandDynamics)** | ![Geometry](https://img.shields.io/badge/Physics-Quantum_Geometry-indigo?style=flat-square) | Geometric inference of electron mass and derivation of standard constants. |
